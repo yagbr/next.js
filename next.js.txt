@@ -1,0 +1,21 @@
+npx create-next-app@latest
+# or
+yarn create next-app
+# or
+pnpm create next-app
+
+typescript
+npx create-next-app@latest --typescript
+# or
+yarn create next-app --typescript
+# or
+pnpm create next-app -- --typescript
+
+Manual Setup
+npm install next react react-dom
+# or
+yarn add next react react-dom
+# or
+pnpm add next react react-dom
+
+
